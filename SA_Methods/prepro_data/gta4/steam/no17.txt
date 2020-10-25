@@ -1,0 +1,4 @@
+It/PRP 's/VBZ a/DT /SYM /SYM /SYM /SYM ing/VBG waste/NN of/IN money/NN !/.
+Buy/VB the/DT game/NN but/CC you/PRP ca/MD n't/RB play/VB !/.
+if/IN i/FW told/VBD you/PRP the/DT problem/NN ,/, what/WP can/MD you/PRP do/VB ?!/SYM
+nothing/NN !/.

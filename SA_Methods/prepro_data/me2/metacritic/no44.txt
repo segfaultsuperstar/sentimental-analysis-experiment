@@ -1,0 +1,5 @@
+This/DT very/RB loosely/RB an/DT rpg/NN ,/, it/PRP 's/VBZ more/JJR of/IN an/DT fps/NN action/rpg/NN ./.
+The/DT game/NN itself/PRP has/VBZ very/RB few/JJ flaw/NN ,/, but/CC most/JJS glaring/JJ one/CD are/VBP your/PRP$ so/RB called/VBN team/NN mates/NNS which/WDT you/PRP have/VBP to/TO keep/VB a/DT close/JJ eye/NN on/IN and/CC near/IN you/PRP ,/, because/IN your/PRP$ Shepard/NNP is/VBZ the/DT main/JJ target/NN for/IN enemies/NNS ./.
+The/DT other/JJ glaring/NN flaw/NN is/VBZ your/PRP$ view/NN point/NN which/WDT is/VBZ behind/IN and/CC slightly/RB to/TO the/DT right/NN of/IN your/PRP$ character/NN ,/, and/CC while/IN it/PRP works/VBZ for/IN games/NNS like/IN swtor/NN or/CC skyrim/VBP it/PRP does/VBZ not/RB in/IN fps/NNS ./.
+Skyrim/NNP has/VBZ the/DT best/JJS pov/NN in/IN a/DT game/NN since/IN you/PRP can/MD choose/VB your/PRP$ pov/NN ./.
+It/PRP would/MD been/VBN better/JJR if/IN this/DT was/VBD a/DT true/JJ fps/NNS ./.

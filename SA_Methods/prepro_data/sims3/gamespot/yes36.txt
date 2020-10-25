@@ -1,0 +1,11 @@
+I/PRP have/VBP played/VBN this/DT game/NN for/IN about/IN 7/CD hours/NNS ,/, and/CC it/PRP feels/VBZ like/IN I/PRP 've/VBP played/VBN enough/RB ./.
+It/PRP 's/VBZ a/DT big/JJ disappointment/NN ,/, especially/RB since/IN I/PRP played/VBD Sims/NNP 2/CD for/IN more/JJR than/IN 30/CD hours/NNS ./.
+This/DT third/JJ iteration/NN feels/VBZ more/JJR like/IN an/DT upgrade/NN ,/, rather/RB than/IN something/NN new/JJ (/-LRB- or/CC maybe/RB it/PRP 's/VBZ just/RB Sims/NNP indigestion/NN )/-RRB- Customization/NN is/VBZ good/JJ ,/, but/CC too/RB limited/JJ ./.
+You/PRP still/RB wait/VB too/RB long/RB for/IN your/PRP$ sim/NN to/TO finish/VB a/DT task/NN ./.
+EA/NN could/MD have/VB taken/VBN the/DT opportunity/NN to/TO add/VB more/JJR dynamics/NNS to/TO the/DT game/NN ,/, but/CC instead/RB ,/, stayed/VBD with/IN the/DT old/JJ formula/NN ./.
+One/CD technical/JJ note/NN ,/, graphic/JJ programming/NN is/VBZ awful/JJ ./.
+I/PRP do/VBP n't/RB understand/VB why/WRB a/DT game/NN with/IN so/RB little/JJ on/IN the/DT screen/NN is/VBZ able/JJ to/TO task/NN the/DT GPU/NNP so/RB much/RB ./.
+I/PRP have/VBP a/DT Quad/NNP Core/NNP 6600/CD equipped/VBN with/IN an/DT nVidia/NNP GTX/NNP 280/CD ./.
+Sims/NNS 3/CD is/VBZ one/CD of/IN the/DT few/JJ games/NNS that/WDT requires/VBZ the/DT fan/NN to/TO operate/VB at/IN maximum/JJ speed/NN (/-LRB- even/RB at/IN low/JJ resolution/NN ,/, such/JJ as/IN 1024x768/CD )/-RRB- ./.
+I/PRP play/VBP Burnout/NNP ,/, Oblivion/NNP ,/, Fallout/NNP and/CC other/JJ games/NNS at/IN a/DT more/RBR respectable/JJ resolution/NN (/-LRB- min/NN :/: 1280/CD x/CC 800/CD ,/, 1680x1050/CD for/IN Burnout/NN )/-RRB- ,/, and/CC never/RB had/VBD the/DT fan/NN operated/VBD at/IN the/DT speed/NN of/IN Sims/NNP 3/CD ./.
+A/DT little/JJ optimization/NN is/VBZ in/IN order/NN ./.

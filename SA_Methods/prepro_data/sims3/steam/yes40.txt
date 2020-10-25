@@ -1,0 +1,5 @@
+This/DT is/VBZ an/DT overall/JJ awesome/JJ game/NN ./.
+There/EX 's/VBZ a/DT huge/JJ amount/NN of/IN customization/NN in/IN this/DT game/NN ./.
+Tip/NN For/IN Newbs/NNS :/: Input/NN [/-LRB- Ctrl/NN ]/-RRB- +/CC [/-LRB- Shift/NN ]/-RRB- and/CC [/-LRB- C/NN ]/-RRB- on/IN your/PRP$ keyboard/NN during/IN gameplay/NN to/TO open/VB up/RP a/DT bar/NN at/IN the/DT top/NN ./.
+Type/NN (/-LRB- testingcheatsenabled/JJ true/JJ )/-RRB- like/IN that/DT to/TO have/VB more/JJR fun/NN ./.
+For/IN unlimited/JJ $/$ $/$ $/$ ,/, do/VBP the/DT shortcut/NN again/RB (/-LRB- Ctrl/NN ,/, Shift/NN ,/, C/NN )/-RRB- and/CC type/NN (/-LRB- familyfunds/NNS [/-LRB- family/NN name/NN here/RB ]/-RRB- 9999999999999/CD )/-RRB- :/: D/NN

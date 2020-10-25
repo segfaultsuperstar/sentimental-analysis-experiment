@@ -1,0 +1,19 @@
+This/DT game/NN really/RB has/VBZ to/TO get/VB two/CD scores/NNS ./.
+If/IN you/PRP play/VBP on/IN normal/JJ difficulty/NN ,/, like/IN I/PRP did/VBD my/PRP$ first/JJ play/NN through/IN ,/, then/RB it/PRP 's/VBZ great/JJ ./.
+Great/JJ story/NN ,/, game/NN play/NN ,/, action/NN ,/, character/NN depth/NN ,/, pretty/RB much/RB does/VBZ everything/NN right/NN and/CC it/PRP earns/VBZ a/DT solid/JJ 8/CD ./.
+Play/VB it/PRP the/DT second/JJ play/NN through/IN on/IN Insanity/NN difficulty/NN and/CC suddenly/RB its/PRP$ a/DT game/NN riddled/JJ with/IN bugs/NNS and/CC as/IN such/JJ id/JJ score/NN it/PRP a/DT 1/CD ./.
+Buggy/NNP games/NNS drive/VBP me/PRP crazy/JJ and/CC I/PRP think/VBP far/RB far/RB less/JJR of/IN an/DT otherwise/RB good/JJ game/NN for/IN having/VBG them/PRP ./.
+What/WP causes/VBZ this/DT discrepancy/NN ?/.
+On/IN the/DT top/JJ level/NN of/IN difficulty/NN the/DT enemies/NNS hit/VBD hard/RB ,/, really/RB hard/RB ./.
+This/DT means/VBZ you/PRP have/VBP to/TO act/VB fast/RB and/CC use/VB cover/NN ,/, always/RB ,/, every/DT time/NN ./.
+Two/CD problems/NNS pop/VBP up/RP ,/, first/RB when/WRB you/PRP turn/VBP quickly/RB your/PRP$ character/NN will/MD have/VB a/DT tendency/NN to/TO become/VB detached/VBN from/IN the/DT game/NN world/NN and/CC float/NN in/IN the/DT air/NN or/CC suddenly/RB get/VB stuck/VBN on/IN top/NN of/IN objects/NNS ./.
+This/DT does/VBZ n't/RB happen/VB all/PDT the/DT time/NN ,/, but/CC enough/RB to/TO be/VB called/VBN repeatable/JJ and/CC definitive/JJ ./.
+Second/JJ problem/NN is/VBZ cover/NN ./.
+While/IN on/IN normal/JJ the/DT few/JJ times/NNS you/PRP ducked/VBD and/CC hid/VBD it/PRP probably/RB worked/VBD fine/NN ./.
+Now/RB ,/, you/PRP are/VBP ducking/VBG and/CC hiding/VBG everywhere/RB ,/, fast/RB and/CC frequently/RB ./.
+This/DT causes/VBZ the/DT many/JJ surfaces/NNS to/TO reveal/VB their/PRP$ true/JJ nature/NN where/WRB your/PRP$ character/NN will/MD not/RB hide/VB completely/RB and/CC you/PRP 'll/MD get/VB shot/VBN through/IN an/DT object/NN ,/, or/CC your/PRP$ character/NN wo/MD n't/RB lean/VB out/RP the/DT correct/JJ direction/NN and/CC you/PRP 'll/MD be/VB left/VBN open/JJ to/TO get/VB shot/VBN ./.
+There/EX are/VBP many/JJ many/JJ glitched/JJ cover/NN surfaces/NNS that/WDT cause/VBP a/DT variety/NN of/IN issues/NNS with/IN game/NN play/NN ./.
+Besides/IN that/DT there/EX are/VBP also/RB a/DT few/JJ other/JJ bugs/NNS present/VBP like/IN quests/NNS that/IN you/PRP ca/MD n't/RB complete/VB that/DT do/VBP n't/RB end/VB up/RP affecting/VBG anything/NN and/CC also/RB a/DT game/NN killing/VBG bug/NN where/WRB your/PRP$ game/NN will/MD have/VB a/DT critical/JJ crash/NN and/CC close/RB if/IN you/PRP change/VB your/PRP$ ability/NN hot/JJ keys/NNS in/IN combat/NN (/-LRB- there/EX is/VBZ a/DT quick/JJ hotkey/NN UI/NN with/IN bad/JJ programming/NN )/-RRB- ./.
+These/DT very/RB prevalent/JJ bugs/NNS cause/VBP the/DT game/NN heavy/JJ problems/NNS because/IN they/PRP get/VBP you/PRP killed/VBN when/WRB you/PRP should/MD otherwise/RB be/VB alive/JJ ./.
+So/RB ,/, all/DT told/VBD id/RB give/VB the/DT game/NN a/DT 4/CD ./.
+Great/JJ story/NN ,/, so/RB so/RB game/NN play/NN that/WDT is/VBZ very/RB dependent/JJ on/IN the/DT difficulty/NN setting/VBG as/IN to/TO how/WRB decent/JJ it/PRP is/VBZ and/CC released/VBN ,/, yet/RB never/RB fixed/VBN ,/, with/IN a/DT repeatable/JJ bug/NN that/WDT will/MD cause/VB a/DT fatal/JJ error/NN ./.

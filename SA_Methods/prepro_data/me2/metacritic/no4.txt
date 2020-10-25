@@ -1,0 +1,3 @@
+A/DT good/JJ game/NN ,/, but/CC nowhere/RB near/IN the/DT same/JJ caliber/NN ME1/NN was/VBD ./.
+They/PRP stripped/VBD away/RB almost/RB all/DT RPG/NN elements/NNS so/IN it/PRP 's/VBZ pretty/RB much/RB a/DT straight/JJ up/IN shooter/NN with/IN a/DT good/JJ story/NN ./.
+No/DT inventory/NN or/CC loot/NN ,/, lack/NN of/IN sidequests/NNS ,/, no/DT freedom/NN ,/, no/DT exploration/NN ,/, very/RB linear/JJ ,/, barely/RB any/DT use/NN for/IN money/NN ,/, dumbed/VBN down/RP leveling/VBG system/NN ,/, lack/NN of/IN skills/NNS ,/, lack/NN of/IN variation/NN in/IN armor/weapons/NNS

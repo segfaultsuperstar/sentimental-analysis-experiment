@@ -1,0 +1,4 @@
+The/DT Sims/NNP 3/CD introduce/VB some/DT good/JJ new/JJ improvements/NNS to/TO the/DT collection/NN ./.
+But/CC there/EX are/VBP many/JJ reasons/NNS for/IN me/PRP to/TO think/VB it/PRP 's/VBZ just/RB a/DT bad/JJ game/NN option/NN :/: 1/CD ./.
+The/DT huge/JJ amount/NN of/IN expansion/NN packs/VBZ with/IN their/PRP$ respective/JJ negative/JJ points/NNS ./.
+We/PRP 're/VBP talking/VBG about/IN 10/CD expansion/NN packs/VBZ that/IN their/PRP$ price/NN varies/VBZ from/IN 20a/CD

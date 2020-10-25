@@ -1,0 +1,27 @@
+Game/NN is/VBZ ridiculously/RB expensive/JJ but/CC you/PRP already/RB knew/VBD this/DT ./.
+What/WP they/PRP dont/VBP tell/VB you/PRP is/VBZ it/PRP has/VBZ n't/RB been/VBN updated/VBN for/IN CPUs/NNS in/IN about/RB 10/CD years/NNS ./.
+You/PRP got/VBD ta/TO find/VB the/DT solution/NN yourself/PRP and/CC make/VB it/PRP recognize/VB your/PRP$ graphics/NNS card/NN (/-LRB- edit/NN game/NN code/NN files/NNS )/-RRB- ./.
+Even/RB THEN/RB !/.
+The/DT game/NN has/VBZ performance/NN issues/NNS .../: it/PRP CONSTANTLY/RB STUTTERS/VBZ ,/, LAGS/VBZ and/CC FREEZES/VBZ for/IN whatever/WDT reason/NN ./.
+If/IN it/PRP were/VBD n't/RB for/IN the/DT bad/JJ performance/NN I/PRP would/MD n't/RB consider/VB the/DT game/NN play/NN experience/NN bad/JJ but/CC it/PRP is/VBZ .../: ITS/NNP BAD/NNP ./.
+Online/JJ comments/NNS I/PRP found/VBD said/VBD this/DT is/VBZ normal/JJ behavior/NN ./.
+So/RB much/RB for/IN a/DT $/$ 200/CD +/CC game/NN ./.
+Plus/CC you/PRP think/VBP you/PRP got/VBD all/PDT the/DT content/NN ??/.
+Nope/UH !!!/.
+There/EX 's/VBZ more/JJR ./.
+./.
+even/RB after/IN you/PRP buy/VBP all/PDT the/DT expansion/NN and/CC dlc/NN ,/, they/PRP got/VBD other/JJ stuff/NN online/NN for/IN the/DT same/JJ price/NN ./.
+You/PRP got/VBD ta/TO buy/VB their/PRP$ currency/NN then/RB spend/VBP it/PRP that/DT way/NN ./.
+Just/RB a/DT money/NN grab.At/NN this/DT point/NN the/DT textures/NNS of/IN the/DT sims/NNS are/VBP pretty/RB poor/JJ ./.
+I/PRP 'm/VBP dissapointed/JJ but/CC with/IN an/DT old/JJ game/NN that/WDT is/VBZ to/TO be/VB expected/VBN ./.
+Actually/RB I/PRP think/VBP I/PRP just/RB might/MD sell/VB it/PRP back/RB if/IN I/PRP can/MD ./.
+Too/RB bad/JJ it/PRP can/MD be/VB entertaining/JJ but/CC with/IN with/IN the/DT huge/JJ performance/NN issues/NNS ,/, definitely/RB not/RB worth/IN the/DT AAA/NNP price/NN ./.
+it/PRP 's/VBZ OLD/NNP ./.
+My/PRP$ suggestions/NNS $/$ 5/CD base/NN game/NN and/CC $/$ 1/CD each/DT for/IN DLC/NNP ./.
+Thats/NNP it.Edit/NNP :/: If/IN you/PRP play/VBP this/DT game/NN past/IN the/DT 2/CD hours/NNS mark/NN and/CC only/RB then/RB start/VB to/TO realize/VB the/DT performance/NN issues/NNS it/PRP will/MD be/VB too/RB late/JJ for/IN a/DT refund/NN on/IN the/DT game/NN and/CC ALL/NN DLC/NN (/-LRB- even/RB if/IN you/PRP never/RB played/VBD the/DT DLC/NN )/-RRB- ./.
+Do/VBP n't/RB get/VB burned/VBN like/IN I/PRP did/VBD ./.
+***/SYM Note/VB I/PRP may/MD have/VB fixed/VBN the/DT game/NN for/IN myself/PRP since/IN I/PRP made/VBD this/DT review/NN but/CC I/PRP 'm/VBP keeping/VBG this/DT review/NN AS/JJ IS/VBZ ./.
+There/EX is/VBZ no/DT reason/NN why/WRB I/PRP should/MD spend/VB this/DT amount/NN of/IN money/NN on/IN this/DT game/NN and/CC then/RB also/RB have/VBP to/TO spend/VB hours/NNS modifying/VBG it/PRP ,/, hand/NN coding/NN and/CC basically/RB end/VB up/RP in/IN my/PRP$ own/JJ tech/NN support/NN role/NN ./.
+This/DT game/NN remains/VBZ a/DT major/JJ money/NN maker/NN for/IN them/PRP and/CC they/PRP have/VBP n't/RB bothered/VBN to/TO make/VB any/DT patches/NNS for/IN it/PRP in/IN over/IN a/DT decade/NN ./.
+My/PRP$ fix/NN may/MD not/RB work/VB for/IN you/PRP (/-LRB- see/VB comments/NNS below/IN )/-RRB- ./.
+I/PRP also/RB used/VBD this/DT guide/NN found/VBN on/IN steam/NN The/DT Sims/NNP 3/CD |/SYM Performance/NNP &/CC Bug/NN Fix/VBP Guide/NNP 2019/CD A/DT Guide/NNP for/IN The/DT Sims/NNS (/-LRB- TM/NN )/-RRB- 3/CD By/IN :/: Anime/NNP _/NNP Boom/NNP This/DT is/VBZ a/DT guide/NN on/IN how/WRB to/TO make/VB The/DT Sims/NNS 3/CD run/NN smoother/JJR ,/, use/VB more/JJR ram/NN and/CC fix/VB some/DT bugs/NNS on/IN newer/JJR systems/NNS ./.

@@ -1,0 +1,3 @@
+I/PRP like/VBP GTA/NNP games/NNS but/CC this/DT one/CD is/VBZ a/DT bit/NN boring/JJ ./.
+The/DT graphics/NNS are/VBP really/RB good/JJ but/CC the/DT missions/NNS failed/VBD to/TO keep/VB me/PRP entertained/VBN ./.
+The/DT Windows/NNP Live/NNP was/VBD also/RB something/NN very/RB annnoying/JJ ./.

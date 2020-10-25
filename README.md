@@ -1,0 +1,1 @@
+A yearlong experimentation to tools relating to the field of Natural Language Processing, namely Sentiment Analysis

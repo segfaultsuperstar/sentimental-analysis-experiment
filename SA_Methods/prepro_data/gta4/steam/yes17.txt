@@ -1,0 +1,1 @@
+9/10I/NN kill/VBP a/DT man/NN ,/, 1/CD star/NN I/PRP try/VBP to/TO cross/VB a/DT brigde/NN ,/, /SYM /SYM /SYM /SYM ing/VBG 6/CD stars/NNS ,/, explain/VBP that/IN /SYM /SYM /SYM /SYM

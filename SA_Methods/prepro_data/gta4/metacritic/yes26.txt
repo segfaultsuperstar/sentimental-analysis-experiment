@@ -1,0 +1,7 @@
+love/NN this/DT game/NN ,/, it/PRP 's/VBZ a/DT huge/JJ favorite/NN ./.
+Runs/VBZ clean/JJ on/IN my/PRP$ pc/NN ./.
+Love/NN it/PRP on/IN xbox/NN 360/CD as/RB well/RB ./.
+Multiplayer/JJ greatness/NN as/RB well/RB ./.
+I/PRP love/VBP the/DT fact/NN that/IN there/EX is/VBZ a/DT free/JJ roam/VB mode/NN for/IN multi/NNS player/NN ./.
+I/PRP play/VBP it/PRP via/IN Steam/NN with/IN my/PRP$ usb/JJ xbox/NN controller/NN and/CC its/PRP$ mapped/VBN out/RP very/RB well/RB ./.
+Running/VBG it/PRP on/IN a/DT Geforce/NNP GTX/NNP 460/CD AMD/NNP Phenom2/NNP Quad/NNP core/NN 8/CD GB/NNP Ram/NNP 64bit/NNP Win/VB 7/CD

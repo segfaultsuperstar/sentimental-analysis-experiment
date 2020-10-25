@@ -1,0 +1,42 @@
+I/PRP 've/VBP already/RB reviewed/VBN this/DT game/NN at/IN great/JJ length/NN for/IN the/DT Xbox/NN 360/CD ;/: mainly/RB noting/VBG its/PRP$ dissapointment/NN compared/VBN to/TO San/NNP Andreas/NNP or/CC indeed/RB any/DT other/JJ GTA/NN (/-LRB- except/IN maybe/RB GTA/NNP III/NNP )/-RRB- ./.
+If/IN you/PRP 're/VBP looking/VBG for/IN single/JJ player/NN content/NN ,/, this/DT game/NN simply/RB does/VBZ n't/RB have/VB any/DT ./.
+With/IN a/DT generic/JJ (/-LRB- for/IN a/DT GTA/NN game/NN )/-RRB- story/NN ,/, repetitive/JJ missions/NNS ,/, and/CC a/DT plot/setting/context/NN with/IN zero/CD creativity/NN and/CC some/DT half-arsed/JJ mini-games/NNS thrown/VBN in/IN ;/: it/PRP 's/VBZ definitely/RB a/DT game/NN which/WDT Rockstar/NNP played/VBD it/PRP safe/JJ with/IN -/: something/NN which/WDT nobody/NN expects/VBZ from/IN a/DT Grand/NNP Theft/NN Auto/NN title/NN -/: which/WDT always/RB push/VBP the/DT boundaries/NNS in/IN open-world/JJ freedom/NN of/IN expression/NN and/CC creativity/NN ./.
+Multiplayer/NNP is/VBZ new/JJ and/CC it/PRP has/VBZ got/VBN some/DT good/JJ variety/NN but/CC somehow/RB does/VBZ n't/RB feel/VB right/JJ either/CC ./.
+The/DT reason/NN for/IN this/DT is/VBZ down/RB to/TO the/DT controls/NNS ./.
+Only/RB official/JJ Xbox/NN 360/CD controllers/NNS are/VBP supported/VBN ,/, and/CC the/DT auto-aim/NN means/VBZ multiplayer/NN has/VBZ almost/RB zero/CD skill/NN in/IN combat/NN ./.
+It/PRP 's/VBZ still/RB fun/NN to/TO play/VB though/IN occasionally/RB due/JJ to/TO the/DT variety/NN ,/, which/WDT includes/VBZ three/CD co-op/NN missions/NNS ./.
+So/RB if/IN you/PRP decide/VBP to/TO use/VB mouse/NN and/CC keyboard/NN ,/, you/PRP 'll/MD find/VB the/DT default/NN button/NN mapping/VBG to/TO be/VB pretty/RB much/RB perfect/JJ ./.
+However/RB ,/, the/DT one/CD thing/NN that/WDT ruins/NNS the/DT whole/JJ experience/NN of/IN making/VBG it/PRP fluent/JJ ;/: and/CC this/DT applies/VBZ more/RBR on/IN PC/NN than/IN console/NN -/: is/VBZ the/DT extremely/RB clunky/JJ response/NN for/IN movement/NN and/CC the/DT camera/NN ./.
+Sometimes/RB you/PRP feel/VBP that/IN you/PRP have/VBP no/DT control/NN over/IN Niko/NNP ./.
+My/PRP$ final/JJ complaint/NN is/VBZ with/IN the/DT stability/NN issues/NNS and/CC lack/NN of/IN optimisation/NN for/IN PC/NN ./.
+Yes/UH ,/, you/PRP can/MD still/RB have/VB your/PRP$ own/JJ music/NN station/NN as/IN before/RB ,/, but/CC the/DT graphics/NNS are/VBP far/RB too/RB inefficient/JJ ./.
+Do/VBP n't/RB get/VB me/PRP wrong/JJ ,/, this/DT is/VBZ an/DT amazing/JJ looking/VBG game/NN even/RB for/IN today/NN ,/, but/CC it/PRP is/VBZ in/IN desperate/JJ need/NN of/IN anti-aliasing/JJ even/RB at/IN 1920x1080/CD ,/, especially/RB given/VBN the/DT nature/NN of/IN the/DT game/NN ./.
+If/IN you/PRP do/VBP n't/RB have/VB around/RB 1.5/CD GB/NN dedicated/JJ graphics/NNS memory/NN you/PRP ca/MD n't/RB really/RB max/VB it/PRP or/CC run/VB it/PRP well/RB ./.
+I/PRP have/VBP a/DT 1/CD GB/NNP GTX/NNP 560/CD Ti/NNP and/CC considering/VBG I/PRP get/VBP 48/CD FPS/NNS on/IN BF3/NN on/IN High/JJ in/IN multiplayer/NN ,/, you/PRP 'd/MD think/VB this/DT game/NN on/IN max/NN would/MD be/VB a/DT piece/NN of/IN cake/NN ./.
+But/CC the/DT draw/NN distance/NN consumes/VBZ ridiculous/JJ amounts/NNS of/IN VRAM/NNP ./.
+The/DT Xbox/NN 360/CD version/NN ,/, despite/IN getting/VBG crap/NN framerate/NN ,/, had/VBD at/IN least/JJS more/RBR consistency/NN in/IN graphics/NNS ./.
+Screen/NN tearing/VBG ,/, freezes/VBZ ,/, pink/JJ textures/NNS ,/, AI/NN behaving/VBG weird/JJ ,/, bugs/NNS ,/, glitches/NNS -/: anything/NN you/PRP can/MD think/VB of/IN is/VBZ present/JJ ./.
+Given/VBN the/DT quality/NN of/IN the/DT game/NN as/IN a/DT whole/JJ ,/, these/DT technical/JJ issues/NNS make/VBP a/DT mockery/NN of/IN all/PDT the/DT claimed/VBN $/$ 100/CD million/CD budget/NN ./.
+There/EX 's/VBZ also/RB the/DT problem/NN that/IN there/EX is/VBZ no/DT cfg/NN file/NN where/WRB you/PRP can/MD adjust/VB anti-aliasing/JJ or/CC set/VB a/DT frame/NN limit/NN ./.
+You/PRP can/MD manually/RB limit/VB the/DT frame/NN rate/NN by/IN entering/VBG a/DT command/NN line/NN into/IN a/DT shortcut/NN pointed/VBD at/IN the/DT executable/JJ ,/, but/CC this/DT still/RB does/VBZ n't/RB make/VB for/IN smooth/JJ gameplay/NN experience/NN ./.
+Even/RB commandline/NN fixes/NNS within/IN the/DT game/NN directory/NN ca/MD n't/RB fix/VB the/DT random/JJ freezing/NN ,/, crashing/VBG and/CC sometimes/RB textures/VBZ not/RB loading/VBG bugs/NNS ,/, which/WDT is/VBZ extremely/RB frustrating/JJ ./.
+OK/JJ that/DT 's/VBZ me/PRP done/VBN complaining/VBG ./.
+So/RB what/WP credit/NN does/VBZ this/DT game/NN actually/RB deserve/VB ?/.
+The/DT most/RBS notable/JJ and/CC most/RBS significant/JJ in/IN my/PRP$ opinion/NN ,/, is/VBZ how/WRB the/DT driving/VBG mechanics/NNS and/CC the/DT car/NN designs/VBZ themselves/PRP are/VBP better/JJR than/IN any/DT other/JJ open-world/JJ game/NN ./.
+Not/RB only/RB do/VBP cars/NNS look/VB beautiful/JJ and/CC unique/JJ ,/, but/CC they/PRP handle/VBP differently/RB too/RB ./.
+It/PRP 's/VBZ very/RB fun/NN to/TO just/RB drive/VB on/IN this/DT game/NN and/CC very/RB rewarding/JJ ./.
+Better/RBR than/IN a/DT lot/NN of/IN racing/VBG games/NNS if/IN you/PRP ask/VBP me/PRP ./.
+Other/JJ accomplishments/NNS include/VBP a/DT decent/JJ attempt/NN at/IN capturing/VBG New/NNP York/NNP City/NNP ./.
+Although/IN most/JJS of/IN the/DT city/NN looks/VBZ pretty/RB bland/JJ and/CC copy/NN and/CC pasted/VBD throughout/IN and/CC most/JJS of/IN it/PRP does/VBZ n't/RB get/VB used/VBN in/IN the/DT main/JJ story/NN ,/, it/PRP 's/VBZ still/RB not/RB a/DT bad/JJ effort/NN given/VBN the/DT size/NN ./.
+It/PRP 's/VBZ very/RB grande/JJ and/CC distinctly/RB recognizable/JJ ./.
+The/DT city/NN does/VBZ feel/VB authentic/JJ and/CC AI/NN is/VBZ quite/RB good/JJ -/: certainly/RB more/RBR realistic/JJ than/IN the/DT previous/JJ games/NNS which/WDT had/VBD rubbish/JJ ragdoll/NN physics/NN and/CC very/RB blocky/JJ movement/NN ./.
+This/DT is/VBZ down/RB to/TO the/DT brilliant/JJ Euphoria/NNP engine/NN in/IN conjunction/NN with/IN RAGE/NN ./.
+Other/JJ good/JJ points/NNS about/IN this/DT game/NN include/VBP the/DT very/RB nicely/RB paced/VBN progression/NN and/CC robust/JJ game/NN mechanics/NNS such/JJ as/IN the/DT combat/NN and/CC the/DT wanted/JJ system/NN for/IN losing/VBG cops/NNS ./.
+The/DT classic/JJ GTA/NN humour/NN and/CC chat/NN stations/NNS are/VBP here/RB too/RB ./.
+The/DT attention/NN to/TO detail/NN is/VBZ also/RB impressive/JJ -/: everything/NN from/IN easter/NN eggs/NNS to/TO the/DT realistic/JJ volume/NN of/IN the/DT radio/NN according/VBG to/TO how/WRB far/RB away/RB you/PRP are/VBP from/IN your/PRP$ car/NN ./.
+What/WP else/RB ?/.
+The/DT only/JJ thing/NN that/WDT remains/VBZ to/TO be/VB credited/VBN is/VBZ that/IN overall/JJ ,/, as/IN a/DT package/NN ,/, it/PRP 's/VBZ a/DT solid/JJ game/NN ./.
+It/PRP may/MD not/RB do/VB anything/NN new/JJ or/CC do/VB anything/NN exceptionally/RB well/RB ,/, and/CC the/DT content/NN is/VBZ lacking/VBG ./.
+However/RB if/IN you/PRP consider/VBP it/PRP on/IN its/PRP$ own/JJ without/IN comparing/VBG to/TO other/JJ open-world/JJ games/NNS it/PRP 's/VBZ a/DT very/RB high/JJ quality/NN game/NN on/IN the/DT whole/NN ./.
+Sure/JJ the/DT PC/NN version/NN is/VBZ n't/RB optimised/VBN and/CC it/PRP deserves/VBZ negative/JJ marks/NNS for/IN its/PRP$ lack/NN of/IN innovation/NN and/CC the/DT miniscule/JJ amount/NN of/IN content/NN for/IN an/DT open-world/JJ game/NN ,/, but/CC if/IN you/PRP can/MD overlook/VB these/DT issues/NNS there/EX 's/VBZ a/DT decent/JJ experience/NN to/TO be/VB found/VBN here/RB ./.
+Just/RB tread/VB with/IN caution/NN and/CC be/VB prepared/VBN for/IN some/DT heavy/JJ technical/JJ issues/NNS on/IN the/DT PC/NN version/NN ./.

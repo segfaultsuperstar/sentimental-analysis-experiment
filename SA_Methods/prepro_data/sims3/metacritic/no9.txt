@@ -1,0 +1,3 @@
+The/DT seemless/JJ feature/NN is/VBZ okay/JJ ,/, but/CC a/DT lot/NN of/IN simple/JJ things/NNS have/VBP been/VBN made/VBN frustratingly/RB difficult/JJ ./.
+Placing/VBG stairs/NNS are/VBP a/DT pain/NN and/CC removing/VBG a/DT family/NN means/VBZ deleting/VBG a/DT whole/JJ neighborhood/NN ./.
+A/DT lot/NN of/IN the/DT simplicity/NN has/VBZ been/VBN lost/VBN and/CC a/DT lot/NN of/IN what/WP made/VBD the/DT sims/NNS 2/CD fun/NN is/VBZ missing/VBG forcing/VBG us/PRP to/TO wait/VB three/CD or/CC four/CD years/NNS so/IN we/PRP can/MD buy/VB it/PRP back/RB ./.

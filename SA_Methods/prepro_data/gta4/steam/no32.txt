@@ -1,0 +1,3 @@
+The/DT game/NN wo/MD n't/RB start/VB ./.
+It/PRP gives/VBZ error/NN 80154024/CD when/WRB i/FW try/VB to/TO login/NN to/TO windows/NNS live/VBP ,/, then/RB directs/VBZ me/PRP to/TO the/DT Windows/NNP website/NN to/TO login/NN ./.
+When/WRB I/PRP login/VBP it/PRP 's/VBZ a/DT missing/VBG page.Waste/NN of/IN $/$ 20/CD

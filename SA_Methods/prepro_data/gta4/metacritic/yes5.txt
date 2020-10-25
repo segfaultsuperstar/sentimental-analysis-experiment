@@ -1,0 +1,5 @@
+One/CD of/IN the/DT best/JJS games/NNS I/PRP have/VBP ever/RB played/VBN ./.
+Worked/VBD well/RB for/IN me/PRP with/IN a/DT slightly/RB under/IN par/JJ CPU/NNP AMD64/NN 4400/CD which/WDT was/VBD my/PRP$ 20-25/CD ish/NN FPS/NN bottleneck/NN (/-LRB- 9800/CD GTX/NN +/CC graphics/NNS )/-RRB- ./.
+Only/RB had/VBD an/DT occassional/JJ lock/NN up/RB (/-LRB- always/RB within/IN the/DT scripted/VBN sequences/NNS and/CC never/RB whilst/IN driving/VBG etc/NN )/-RRB- ./.
+Registering/VBG Games/NNPS for/IN Windows/NNP and/CC Rockstar/NNP Club/NNP -/: a/DT relatively/RB minor/JJ inconvenience/NN ./.
+I/PRP have/VBP since/IN re-installed/VBN upon/IN a/DT higher/JJR spec/NN machine/NN I7/NN 920/CD CPU/NN with/IN 295GTX/NN card/NN and/CC so/RB far/RB not/RB a/DT single/JJ problem/NN and/CC over/IN 60/CD FPS/NNS ./.

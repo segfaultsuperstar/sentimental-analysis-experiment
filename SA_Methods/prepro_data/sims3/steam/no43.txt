@@ -1,0 +1,2 @@
+imagine/VB spending/NN 20/CD dollars/NNS for/IN a/DT small/JJ dlc/NN that/WDT barely/RB changes/VBZ the/DT game/NN at/IN all/DT ./.
+/SYM /SYM /SYM /SYM ea/FW

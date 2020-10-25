@@ -1,0 +1,4 @@
+The/DT game/NN is/VBZ great/JJ ./.
+It/PRP has/VBZ brilliant/JJ graphics/NNS ,/, but/CC it/PRP is/VBZ a/DT rubbish/JJ port/NN ./.
+It/PRP does/VBZ n't/RB support/VB SLI/NNP ,/, and/CC it/PRP needs/VBZ a/DT very/RB high/JJ power/NN computer/NN to/TO do/VB what/WP is/VBZ only/RB above/JJ average/NN by/IN modern/JJ standards/NNS ./.
+It/PRP 's/VBZ almost/RB as/IN if/IN Rockstar/NNP could/MD n't/RB be/VB bothered/VBN with/IN the/DT PC/NN market/NN ./.

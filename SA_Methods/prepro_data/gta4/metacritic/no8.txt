@@ -1,0 +1,11 @@
+A/DT very/RB fun/NN and/CC addicting/JJ game/NN ./.
+Cops/NNS finally/RB have/VBP a/DT decent/JJ AI/NN which/WDT means/VBZ you/PRP can/MD have/VB a/DT strategy/NN against/IN cops/NNS now/RB instead/RB of/IN them/PRP showing/VBG up/RP randomly/RB no/DT matter/NN where/WRB you/PRP are/VBP like/IN the/DT earlier/JJR gta/NN series/NN ./.
+The/DT storyline/NN is/VBZ good/JJ ,/, not/RB much/JJ to/TO say/VB there/RB ./.
+The/DT major/JJ downside/NN with/IN this/DT game/NN is/VBZ the/DT graphics/NNS and/CC performance/NN ./.
+Even/RB with/IN a/DT great/JJ computer/NN expect/VBP to/TO run/VB this/DT game/NN at/IN low-medium/JJ settings/NNS ./.
+Even/RB with/IN low/JJ settings/NNS expect/VBP major/JJ stuttering/NN and/CC lag/NN ./.
+This/DT game/NN is/VBZ poorly/RB optimized/VBN ./.
+The/DT graphics/NNS are/VBP jagged/VBN and/CC shadows/NNS looks/VBZ very/RB unrealistic/JJ and/CC grainy/JJ ./.
+There/EX 's/VBZ a/DT application/NN with/IN it/PRP called/VBD social/JJ club/NN that/WDT slows/VBZ the/DT game/NN 's/POS startup/NN process/NN and/CC also/RB being/VBG a/DT resource/NN hog/NN in/IN the/DT background/NN ./.
+There/EX 's/VBZ still/RB no/DT free/JJ saving/NN in/IN this/DT game/NN ,/, this/DT is/VBZ very/RB annoying/JJ when/WRB the/DT game/NN keeps/VBZ crashing/VBG that/IN can/MD make/VB you/PRP lose/VB hours/NNS of/IN mission/NN progress/NN ./.
+Simply/RB it/PRP 's/VBZ a/DT fun/NN game/NN if/IN you/PRP can/MD just/RB get/VB it/PRP to/TO run/VB like/IN it/PRP should/MD ./.

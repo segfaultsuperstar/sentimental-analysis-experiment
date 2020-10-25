@@ -1,0 +1,1 @@
+												The game won't start. It gives error 80154024 when i try to login to windows live, then directs me to the Windows website to login. When I login it's a missing page.Waste of $20			

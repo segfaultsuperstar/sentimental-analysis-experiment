@@ -1,0 +1,3 @@
+Gameplay/NNP ,/, combat/NN ,/, story/NN ,/, characters/NNS ,/, dialogues/NNS .../: Everything/NN about/IN this/DT game/NN is/VBZ pure/JJ art/NN ./.
+A/DT masterpiece/NN .11/CD //: 10/CD "/`` I/PRP had/VBD reach/NN ,/, but/CC she/PRP had/VBD flexibility/NN ./. "/''
+G./NNP Vakarian/NNP

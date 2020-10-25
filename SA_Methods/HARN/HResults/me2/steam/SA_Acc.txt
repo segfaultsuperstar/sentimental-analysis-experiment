@@ -1,0 +1,3 @@
+% Correct Positive Reviews: 61.75438596491228%
+% Correct Negative Reviews: 41.568627450980394%
+% Correct Overall: 52.22222222222223%

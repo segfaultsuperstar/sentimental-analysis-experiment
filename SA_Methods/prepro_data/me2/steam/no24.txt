@@ -1,0 +1,3 @@
+Do/VB not/RB buy/VB from/IN Steam/NNP ./.
+You/PRP can/MD not/RB buy/VB any/DT of/IN the/DT DLC/NNP ,/, even/RB if/IN you/PRP purchase/VBP the/DT Deluxe/NNP Edition/NNP ,/, through/IN anywhere/RB but/CC Origin/NNP ./.
+That/DT said/VBD ,/, the/DT game/NN itself/PRP is/VBZ nice/JJ ,/, but/CC I/PRP would/MD not/RB recommend/VB this/DT game/NN on/IN Steam/NN ./.

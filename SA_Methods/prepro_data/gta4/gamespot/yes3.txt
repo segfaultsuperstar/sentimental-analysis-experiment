@@ -1,0 +1,12 @@
+on/IN points/NNS ,/, duplicate/VB text/NN ,/, or/CC all/DT caps/NNS -/: is/VBZ subject/JJ for/IN removal/NN ./.
+Do/VBP not/RB copy/VB content/NN from/IN another/DT critic/NN or/CC user/NN review/NN ;/: plagiarism/NN is/VBZ a/DT bannable/JJ offense/NN ./.
+We/PRP encourage/VBP you/PRP to/TO write/VB your/PRP$ review/NN in/IN a/DT word/NN processor/NN or/CC text/NN editor/NN ,/, save/VB it/PRP to/TO your/PRP$ local/JJ disk/NN ,/, then/RB copy/NN and/CC paste/VB it/PRP into/IN the/DT posting/VBG box/NN below/IN ./.
+Be/VB sure/JJ to/TO use/VB the/DT spell/NN checker/NN in/IN the/DT word/NN processor/NN ./.
+Reviews/NNS should/MD focus/VB on/IN the/DT content/NN and/CC not/RB the/DT game/NN it/PRP is/VBZ for/IN ./.
+Writing/VBG about/IN other/JJ critic/NN scores/NNS should/MD be/VB posted/VBN in/IN your/PRP$ personal/JJ blog/NN ./.
+Remain/VB on/IN topic/NN about/IN the/DT piece/NN of/IN content/NN ./.
+If/IN you/PRP have/VBP not/RB played/VBN or/CC used/VBN the/DT specific/JJ piece/NN of/IN content/NN ,/, do/VBP not/RB post/VB a/DT review/NN about/IN it/PRP ./.
+You/PRP are/VBP encouraged/VBN to/TO post/VB a/DT personal/JJ blog/NN about/IN your/PRP$ opinions/NNS about/IN it/PRP if/IN you/PRP have/VBP n't/RB used/VBN it/PRP ./.
+Back/RB up/IN your/PRP$ opinions/NNS with/IN facts/NNS ./.
+Otherwise/RB ,/, your/PRP$ review/NN will/MD be/VB flagged/VBN for/IN trolling/NN ./.
+Merely/RB stating/VBG "/`` this/DT map/NN pack/NN sucks/VBZ "/'' or/CC "/`` this/DT horse/NN armor/NN is/VBZ the/DT best/JJS "/'' is/VBZ not/RB enough/RB ./.

@@ -1,0 +1,6 @@
+Graphism/NNP :/: 18/20/CD (/-LRB- Strolling/VBG through/IN a/DT beautiful/JJ New/NNP York/NNP is/VBZ cool/JJ !/. )/-RRB-
+Sounds/VBZ :/: 19/20/CD (/-LRB- Lots/NNS of/IN good/JJ music/NN as/IN usual/JJ ,/, just/RB -1/CD for/IN the/DT sound/NN of/IN cars/NNS not/RB top/JJ )/-RRB- History/NN :/: 20/20/CD (/-LRB- Just/RB huge/JJ ,/, with/IN a/DT main/JJ frame/NN has/VBZ multiple/JJ choice/NN )/-RRB- Gamplay/NNP :/: 18/20/CD (/-LRB- He/PRP lost/VBD some/DT fun/NN ,/, but/CC he/PRP won/VBD at/IN realism/NN !/. )/-RRB-
+Lifespan/NN :/: 20/20/CD (/-LRB- Illimite/NN ./.
+./.
+./.
+it/PRP 's/VBZ GTA/NNP .../: )/-RRB- Final/JJ Score/NN :/: 19/20/CD One/CD of/IN the/DT best/JJS games/NNS of/IN all/DT time/NN !/.

@@ -1,0 +1,10 @@
+10/CD for/IN the/DT game/NN itself/PRP 0/CD for/IN the/DT PC/NN version/NN ./.
+My/PRP$ PC/NN has/VBZ well/RB over/IN the/DT requirments/NNS yet/RB the/DT thing/NN wont/JJ launch/NN at/IN all/DT ./.
+well/RB a/DT black/JJ window/NN pops/VBZ up/RP and/CC then/RB an/DT error/NN message/NN "/`` GTA4/NN has/VBZ stopped/VBN working/VBG "/'' searched/VBD the/DT web/NN and/CC found/VBD stuff/NN that/WDT helped/VBD others/NNS ,/, but/CC did/VBD not/RB help/VB me/PRP ./.
+if/IN u/NN r/NN absoloutly/RB inytent/JJ on/IN geting/VBG it/PRP ,/, then/RB go/VB ahead/RB ,/, i/FW reccomend/FW waiting/VBG for/IN a/DT real/JJ fix/NN from/IN rakstar/JJ ./.
+they/PRP havnet/VBP gotten/VBN off/RP their/PRP$ asses/NNS and/CC done/VBN anything/NN the/DT last/JJ year/NN and/CC a/DT half/NN ,/, so/RB things/NNS arent/JJ looking/VBG good/JJ ./.
+this/DT is/VBZ AFTER/NNP i/FW updated/VBN to/TO the/DT latest/JJS patch/NN ./.
+after/IN first/JJ install/VB ,/, the/DT game/NN launched/VBN ./.
+however/RB there/EX were/VBD no/DT textures/NNS ./.
+their/PRP$ were/VBD the/DT models/NNS and/CC lights/NNS ./.
+thats/IN it/PRP ./.

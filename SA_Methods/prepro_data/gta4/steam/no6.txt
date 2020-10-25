@@ -1,0 +1,1 @@
+Dont/NNP buy/VB piece/NN of/IN /CD /SYM /SYM /SYM

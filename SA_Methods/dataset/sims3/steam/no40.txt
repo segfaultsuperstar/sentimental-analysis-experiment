@@ -1,0 +1,10 @@
+												Game is ridiculously expensive but you already knew this. What they dont tell you is it hasn't been updated for CPUs in about 10 years. You gotta find the solution yourself and make it  recognize your graphics card (edit game code files). Even THEN! The game has performance issues... it CONSTANTLY STUTTERS, LAGS and FREEZES for whatever reason. If it weren't for the bad performance I wouldn't consider the game play experience bad but it is... ITS BAD. Online comments I found said this is normal behavior. So much for a $200+ game. Plus you think you got all the content?? Nope!!! There's more.. even after you buy all the expansion and dlc, they got other stuff online for the same price. You gotta buy their currency then spend it that way. Just a money grab.At this point the textures of the sims are pretty poor. I'm dissapointed but with an old game that is to be expected. Actually I think I just might sell it back if I can. Too bad it can be entertaining but with with the huge performance issues, definitely not worth the AAA price. it's OLD. My suggestions $5 base game and $1 each for DLC.  Thats it.Edit: If you play this game past the 2 hours mark and only then start to realize the performance issues it will be too late for a refund on the game and ALL DLC (even if you never played the DLC). Don't get burned like I did.***Note I may have fixed the game for myself since I made this review but I'm keeping this review AS IS.  There is no reason why I should spend this amount of money on this game and then also have to spend hours modifying it, hand coding and basically end up in my own tech support role.  This game remains a major money maker for them and they haven't bothered to make any patches for it in over a decade. My fix may not work for you (see comments below). I also used this guide found on steam
+
+
+The Sims 3 | Performance & Bug Fix Guide 2019 
+A Guide for The Sims(TM) 3
+By: Anime_Boom
+
+			This is a guide on how to make The Sims 3 run smoother, use more ram and fix some bugs on newer systems.		
+
+ 

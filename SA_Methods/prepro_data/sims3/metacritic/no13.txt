@@ -1,0 +1,28 @@
+This/DT game/NN is/VBZ very/RB fun/NN ,/, no/DT question/NN about/IN it/PRP ./.
+It/PRP is/VBZ also/RB quite/RB expensive/JJ ,/, and/CC as/IN you/PRP will/MD eventually/RB discover/VB ,/, unplayably/JJ buggy/NN ./.
+On/IN those/DT last/JJ two/CD points/NNS :/: 1/LS )/-RRB- Do/VBP n't/RB pretend/VB that/IN the/DT sims/NNS 3/CD is/VBZ the/DT $/$ 8/CD that/IN you/PRP pay/VBP for/IN it/PRP on/IN sale/NN ./.
+Getting/VBG the/DT sims/NNS 3/CD means/VBZ getting/VBG at/IN least/JJS half/PDT the/DT expansion/NN packs/VBZ ./.
+Think/VB $/$ 200/CD ./.
+If/IN you/PRP 're/VBP willing/JJ to/TO pay/VB that/DT ,/, you/PRP 'll/MD have/VB a/DT very/RB fun/NN game/NN ,/, if/IN not/RB ,/, play/VB something/NN else/RB ./.
+2/LS )/-RRB- Many/JJ of/IN the/DT bugs/NNS are/VBP known/VBN to/TO EA/NN ./.
+There/EX are/VBP community/NN fixes/NNS available/JJ for/IN some/DT of/IN them/PRP ./.
+EA/NN has/VBZ not/RB implemented/VBN any/DT of/IN these/DT fixes/NNS ,/, but/CC they/PRP have/VBP produced/VBN lots/NNS of/IN expansion/NN packs/NNS (/-LRB- with/IN bugs/NNS of/IN their/PRP$ own/JJ )/-RRB- instead/RB ./.
+What/WP this/DT means/VBZ for/IN you/PRP :/: Your/PRP$ save/VB game/NN WILL/MD become/VB corrupted/JJ ./.
+It/PRP is/VBZ only/RB a/DT matter/NN of/IN time/NN ./.
+If/IN you/PRP made/VBD many/JJ copies/NNS ,/, you/PRP may/MD be/VB able/JJ to/TO go/VB to/TO an/DT earlier/JJR backup/NN ,/, and/CC use/VB some/DT of/IN the/DT community/NN tools/NNS to/TO delete/VB the/DT bugged/VBN object/NN (/-LRB- s/NNS )/-RRB- that/WDT are/VBP making/VBG your/PRP$ game/NN crash/NN ./.
+(/-LRB- Bills/presents/NNS in/IN the/DT mail/NN often/RB make/VBP the/DT game/NN crash/NN ,/, unless/IN you/PRP use/VBP a/DT custom/NN tool/NN to/TO wipe/VB them/PRP from/IN your/PRP$ save/VB every/DT so/RB often/RB )/-RRB- ./.
+The/DT bugs/NNS are/VBP not/RB minor/JJ ,/, they/PRP WILL/MD destroy/VB your/PRP$ game/NN and/CC render/VBP it/PRP unplayable/JJ ./.
+The/DT loading/VBG times/NNS are/VBP terrible/JJ ./.
+Expect/VB to/TO spend/VB 5-10/JJ minutes/NNS waiting/VBG for/IN the/DT game/NN to/TO start/load/NN even/RB with/IN an/DT ssd/NN ./.
+EA/NN knows/VBZ that/IN they/PRP are/VBP bad/JJ ./.
+./.
+they/PRP even/RB have/VBP a/DT minigame/NN you/PRP can/MD play/VB while/IN all/PDT the/DT loading/VBG happens/VBZ !/.
+To/TO contrast/NN ,/, WINDOWS/NNP boots/NNS and/CC logs/NNS in/IN in/IN 15/CD seconds/NNS on/IN the/DT same/JJ computer/NN ./.
+The/DT problem/NN is/VBZ that/IN EA/NN wrote/VBD the/DT game/NN very/RB poorly/RB ./.
+The/DT algorithms/NNS used/VBN are/VBP inefficient/JJ ./.
+This/DT was/VBD not/RB obvious/JJ with/IN just/RB '/`` sims/NNS 3/CD '/'' ,/, however/RB ,/, every/DT expansion/NN pack/NN adds/VBZ content/NN that/IN the/DT game/NN needs/VBZ to/TO sort/VB through/IN ./.
+Add/VB enough/RB content/JJ (/-LRB- half/PDT the/DT expansion/NN packs/VBZ )/-RRB- and/CC the/DT game/NN will/MD no/RB longer/RB function/VB ./.
+Even/RB on/IN the/DT fastest/JJS computers/NNS ./.
+EA/NN can/MD (/-LRB- but/CC wo/MD n't/RB )/-RRB- fix/VB some/DT of/IN the/DT outstanding/JJ bugs/NNS easily/RB enough/RB ./.
+They/PRP ca/MD n't/RB fix/VB most/JJS of/IN them/PRP without/IN a/DT full/JJ rewrite/VBP ./.
+Hopefully/RB the/DT sims/NNS 4/CD is/VBZ that/IN better/JJR rewrite/VB ./.

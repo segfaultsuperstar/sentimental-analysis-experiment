@@ -1,0 +1,4 @@
+I/PRP feel/VBP cheated/VBN by/IN a/DT massively/RB buggy/NN game/NN ./.
+ok/NN ,/, the/DT underlying/JJ game/NN is/VBZ great/JJ ./.
+But/CC if/IN the/DT graphics/NNS keep/VBP crashing/VBG what/WP 's/VBZ the/DT point/NN ,/, because/IN it/PRP becomes/VBZ unplayable/JJ ./.
+There/EX are/VBP other/JJ bugs/NNS too/RB ,/, but/CC these/DT pale/JJ into/IN insignificance/NN next/JJ to/TO the/DT terrible/JJ graphics/NNS problems/NNS ./.

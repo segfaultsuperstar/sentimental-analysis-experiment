@@ -1,0 +1,1 @@
+let/VB me/PRP play/VB the/DT game/NN .../: i/FW payed/VBN for/IN it/PRP and/CC waited/VBD 3/CD days/NNS for/IN it/PRP to/TO download/VB for/IN nothing/NN fix/NN this/DT

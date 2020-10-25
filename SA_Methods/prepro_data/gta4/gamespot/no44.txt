@@ -1,0 +1,23 @@
+I/PRP really/RB ,/, really/RB had/VBD high/JJ hopes/NNS for/IN this/DT game/NN ./.
+I/PRP 've/VBP never/RB yet/RB had/VBD any/DT problems/NNS with/IN any/DT new/JJ pc/NN game/NN except/IN this/DT one/CD ./.
+Fallout3/NN ,/, Crysis/NNP ,/, COD4/NN ,/, for/IN example/NN run/VBP smooth/JJ as/IN silk/NN with/IN no/DT issues/NNS ./.
+This/DT game/NN was/VBD ported/VBN to/TO PC/NN very/RB prematurely/RB and/CC it/PRP shows/VBZ with/IN installation/NN problems/NNS ,/, horrible/JJ framerates/NNS ,/, and/CC graphical/JJ glitches/NNS ./.
+Installation/NN Nightmares/NNS :/: Where/WRB to/TO start/VB ?/.
+First/RB the/DT DVD/NN autorun/NN must/MD be/VB set/VBN to/TO windows/NNS xp/VBP sp2/NN compatibility/NN mode/NN just/RB to/TO install/VB on/IN Vista/NNP SP1/NN otherwise/RB you/PRP get/VB ,/, and/CC i/FW quote/NN ,/, an/DT error/NN message/NN saying/VBG '/`` Can/MD not/RB install/VB on/IN windows/NNS %/NN P/NN '/'' ./.
+Whats/NNP %/NN P/NN ?/.
+Once/RB the/DT game/NN is/VBZ finally/RB installed/VBN you/PRP must/MD run/VB the/DT game/NN executables/NNS in/IN Windows/NNP 2000/CD compatibility/NN mode/NN to/TO get/VB it/PRP to/TO run/VB ./.
+No/DT other/JJ option/NN works/NNS ./.
+Otherwise/RB you/PRP get/VBP an/DT error/NN message/NN stating/VBG '/`` Fatal/JJ Error/NN RMN20/NN '/'' ./.
+Once/RB that/DT problem/NN is/VBZ fixed/VBN you/PRP have/VBP to/TO change/VB the/DT compatibility/NN mode/NN for/IN every/DT other/JJ exe/NN file/NN in/IN the/DT installation/NN directory/NN EXCEPT/IN rgsc.exe/NN or/CC you/PRP get/VBP a/DT new/JJ crash/NN :/: '/`` RGSC.exe/NNP has/VBZ stopped/VBN responding/VBG '/'' .../: If/IN it/PRP werent/JJ for/IN google/NN and/CC user/NN discussion/NN forums/NNS no/DT one/PRP would/MD have/VB a/DT working/VBG copy/NN of/IN this/DT game/NN ./.
+Framerate/NNP Issues/NNP My/PRP$ PC/NN gets/VBZ 11400/CD 3dmarks/NNS in/IN 3dmark06/NN and/CC I/PRP found/VBD no/DT matter/NN what/WDT my/PRP$ resolution/NN or/CC selected/VBN graphics/NNS options/NNS nothing/NN would/MD remove/VB the/DT chop/VB (/-LRB- even/RB tweaking/NN game-level/JJ quality/NN options/NNS in/IN Nvidia/NNP control/NN panel/NN )/-RRB- ./.
+This/DT coming/VBG from/IN other/JJ games/NNS where/WRB I/PRP can/MD run/VB my/PRP$ native/JJ resolution/NN of/IN 1680x1050/NN with/IN FSAA/NN and/CC FSAF/NN cranked/VBD its/PRP$ left/JJ me/PRP a/DT little/JJ P.O/NN ./.
+After/IN reading/VBG a/DT few/JJ forums/NNS I/PRP found/VBD even/RB people/NNS on/IN SLI/NN rigs/NNS are/VBP having/VBG the/DT same/JJ problem/NN ./.
+Worse/JJR still/RB ./.
+./.
+Graphical/JJ anomalies/NNS ./.
+Did/VBD rockstar/NN even/RB try/VB a/DT installation/NN and/CC trial/NN run/NN of/IN this/DT game/NN on/IN at/IN least/JJS one/CD test/NN system/NN ?/.
+Clearly/RB this/DT is/VBZ an/DT indication/NN that/WDT rockstars/VBZ main/JJ goal/NN was/VBD immediate/JJ profit/NN by/IN rushing/VBG this/DT pc/NN port/NN of/IN a/DT console/NN game/NN at/IN the/DT expense/NN of/IN their/PRP$ valued/VBN customers/NNS ./.
+Im/NN assuming/VBG their/PRP$ theory/NN was/VBD :/: '/`` Who/WP cares/VBZ we/PRP can/MD just/RB patch/NN it/PRP later/RB on/IN '/'' Wasting/VBG entire/JJ nights/NNS of/IN john/NN doe/JJ consumer/NN troubleshooting/NN and/CC writing/VBG their/PRP$ woes/NNS in/IN forums/NNS and/CC reading/VBG discussion/NN groups/NNS '/POS ./.
+Just/RB look/VB at/IN gamespots/NNS ratings/NNS ./.
+A/DT 10/CD out/IN of/IN 10/CD game/NN getting/VBG 7/CD ?/.
+For/IN shame/NN such/JJ an/DT excellent/JJ game/NN has/VBZ gone/VBN to/TO waste/VB ./.

@@ -1,0 +1,5 @@
+Usually/RB when/WRB a/DT game/NN is/VBZ ported/VBN between/IN platforms/NNS ,/, the/DT company/NN at/IN least/JJS puts/VBZ some/DT effort/NN into/IN making/VBG it/PRP run/VB propertly/RB ./.
+Rockstar/NNP ca/MD n't/RB be/VB bothered/VBN with/IN anything/NN like/IN that/DT ./.
+It/PRP 's/VBZ as/IN if/IN they/PRP took/VBD the/DT Xbox/NNP version/NN and/CC wrote/VBD an/DT emulator/NN to/TO run/VB it/PRP ;/: that/DT 's/VBZ how/WRB slow/JJ this/DT game/NN is/VBZ ./.
+I/PRP can/MD run/VB games/NNS like/IN Bioshock/NNP ,/, Crysis/NNP ,/, and/CC Fallout/NNP 3/CD with/IN very/RB high/JJ graphical/JJ detail/NN and/CC a/DT good/JJ frame/NN rate/NN ,/, but/CC this/DT game/NN ca/MD n't/RB even/RB run/VB at/IN 20/CD fps/NNS ./.
+They/PRP did/VBD n't/RB even/RB beta/JJ test/NN this/DT piece/NN of/IN garbage/NN ./.

@@ -1,0 +1,5 @@
+I/PRP love/VBP the/DT Sims/NNP ,/, but/CC i/FW can/MD no/RB longer/RB recommend/VB this/DT game/NN ./.
+With/IN everything/NN installed/VBN ,/, The/DT Sims/NNP 3/CD is/VBZ over/IN 32/CD gigs/NNS ./.
+Tons/NNS of/IN assets/NNS get/VBP loaded/VBN into/IN memory/NN ,/, but/CC the/DT game/NN ca/MD n't/RB handle/VB it/PRP ./.
+EA/NN has/VBZ never/RB updated/VBN this/DT game/NN to/TO include/VB a/DT 64/CD bit/NN executable/JJ ,/, which/WDT means/VBZ the/DT game/NN is/VBZ restricted/JJ to/TO 2/CD GB/NN of/IN ram/NN ./.
+Even/RB after/IN using/VBG a/DT community/NN patcher/NN ,/, the/DT performance/NN makes/VBZ this/DT game/NN unplayable/JJ on/IN a/DT machine/NN that/WDT should/MD be/VB well/RB over/IN the/DT specs.I/NNP 've/VBP tried/VBN the/DT 64/CD bit/NN community/NN patcherDisabling/VBG the/DT in-game/JJ storeTurn/NN down/IN the/DT graphicsNothing/NN helps/VBZ ./.

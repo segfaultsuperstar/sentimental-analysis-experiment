@@ -1,0 +1,25 @@
+Grand/NNP Theft/NN Auto/NN has/VBZ always/RB been/VBN a/DT game/NN that/WDT focus/VBP on/IN an/DT unique/JJ story/NN line/NN and/CC that/DT was/VBD what/WP captured/VBN all/PDT the/DT original/JJ fans/NNS ./.
+However/RB ,/, what/WP was/VBD special/JJ about/IN this/DT piece/NN is/VBZ that/IN it/PRP did/VBD n't/RB need/VB much/JJ to/TO run/VB on/IN a/DT PC/NN ./.
+Now/RB comes/VBZ along/IN Grand/NNP Theft/NN Auto/NN 4/CD and/CC it/PRP is/VBZ ,/, believe/VB me/PRP ,/, a/DT piece/NN of/IN hard/JJ alien/JJ rock/NN that/WDT hardly/RB any/DT PC/NN can/MD handle/VB within/IN reasonable/JJ set/VBN up/RP specifications/NNS ./.
+Now/RB I/PRP understand/VBP many/JJ people/NNS have/VBP already/RB said/VBN this/DT ,/, but/CC I/PRP am/VBP going/VBG to/TO maybe/RB extend/VB this/DT a/DT little/JJ bit/NN more/RBR :/: Think/VB about/IN GTA/NNP 4/CD in/IN the/DT console/NN versions/NNS :/: XBOX/NNP 360/CD ,/, PS3/NNP ./.
+All/PDT those/DT run/VBN perfectly/RB fine/JJ with/IN no/DT problem/NN ./.
+But/CC ,/, given/VBN that/IN a/DT console/NN is/VBZ only/RB a/DT mid-range/JJ powerful/JJ PC/NN ./.
+Now/RB a/DT high-end/JJ PC/NN ca/MD n't/RB even/RB run/VB GTA/NNP 4/CD in/IN highest/JJS settings/NNS ?!?!?!?!?!?!!?!?!??/CD
+Makes/VBZ no/DT sense/NN ./.
+Only/RB explanation/NN ?/.
+Poor/NNP programming/NN styles/NNS and/CC bad/JJ optimization/NN of/IN algorithms/NNS they/PRP used/VBD to/TO make/VB the/DT game/NN ;/: and/CC here/RB are/VBP some/DT I/PRP 've/VBP observed/VBN from/IN the/DT game/NN but/CC not/RB verified/VBN in/IN the/DT source/NN code/NN since/IN I/PRP do/VBP n't/RB have/VB it/PRP :/: 1/CD ./.
+Memory/NN leaks/NNS -/: Noob/JJ mistakes/NNS in/IN programming/NN that/IN either/CC leave/VB dangling/JJ pointers/NNS or/CC did/VBD not/RB use/VB "/`` free/JJ (/-LRB- )/-RRB- "/'' to/TO free/VB up/RP memory/NN space/NN that/WDT are/VBP not/RB needed/VBN -/: making/VBG run-time/JJ stack/VBP full/JJ or/CC mostly/RB full/JJ ./.
+2/LS ./.
+Poor/NNP game/NN data/NNS structure/NN design/NN and/CC algorithms/NNS -/: they/PRP probably/RB did/VBD not/RB spent/VBN enough/JJ time/NN to/TO develop/VB a/DT run-time/NN efficient/JJ data/NNS structure/NN and/CC algorithm/NN ./.
+Specifically/RB ,/, I/PRP suspect/VBP that/IN Rock-Star/NNP did/VBD not/RB use/VB divide-and-conquer/JJ (/-LRB- recursion/NN )/-RRB- as/RB much/RB as/IN they/PRP should/MD of/IN have/VBP ,/, and/CC instead/RB they/PRP used/VBD mainly/RB iteration/NN (/-LRB- loops/NNS )/-RRB- which/WDT made/VBD a/DT significant/JJ impact/NN on/IN CPU/NNP usage/NN ./.
+3/LS ./.
+Glitchy/JJ Textures/NNS -/: Sometimes/RB when/WRB the/DT camera/NN is/VBZ quickly/RB turned/VBN (/-LRB- like/IN swing/NN your/PRP$ mouse/NN quickly/RB )/-RRB- textures/NNS are/VBP not/RB properly/RB loaded/VBN at/IN some/DT angles/NNS !/.
+In/IN fact/NN ,/, they/PRP are/VBP not/RB loaded/VBN at/IN some/DT angles/NNS leaving/VBG a/DT colored/VBN polygon/NN surface/NN ./.
+4/LS ./.
+Film-grain/NN like/IN shadows/NNS -/: The/DT shadows/NNS are/VBP drawn/VBN onto/IN any/DT surface/NN with/IN bad/JJ quality/NN !/.
+I/PRP think/VBP this/DT might/MD be/VB a/DT round-off/JJ error/NN used/VBN in/IN the/DT implementation/NN of/IN the/DT render-er/NN ./.
+I/PRP know/VBP the/DT game/NN 's/POS story/NN is/VBZ capturing/VBG and/CC the/DT game/NN plays/NNS have/VBP been/VBN improved/VBN ALOT/NNP compared/VBN to/TO the/DT last/JJ game/NN ./.
+However/RB ,/, all/DT these/DT software/NN performance/NN issues/NNS are/VBP simply/RB unbearable/JJ and/CC unforgivable/JJ ./.
+I/PRP mean/VBP RockStart/NNP has/VBZ only/RB an/DT average/JJ game/NN engine/NN to/TO begin/VB with/IN compared/VBN to/TO CryEngine/NNP 2/CD ,/, and/CC they/PRP are/VBP forcing/VBG "/`` good/JJ quality/NN "/'' on/IN a/DT poor/JJ engine/NN and/CC noob/NN programmers/NNS ./.
+Lastly/RB ,/, here/RB is/VBZ my/PRP$ bench/NN mark/NN for/IN GTA/NNP 4/CD .../: and/CC my/PRP$ System/NN can/MD run/VB Crysis/NNP at/IN 1680X1050/CD with/IN 8XAA/NN and/CC V-Sycn/NN with/IN everything/NN on/IN High/JJ setting/NN (/-LRB- no/DT ultra/NN high/JJ cuz/NN do/VBP n't/RB have/VB dx10/NN )/-RRB- Statistics/NNPS Average/JJ FPS/NNS :/: 35.33/CD Duration/NNP :/: 37.33/CD sec/NN CPU/NNP Usage/NNP :/: 88/CD %/NN System/NN memory/NN usage/NN :/: 49/CD %/NN Video/NNP memory/NN usage/NN :/: 79/CD %/NN Graphics/NNP Settings/NNP Video/NNP Mode/NNP :/: 1680/CD x/CC 1050/CD (/-LRB- 60/CD Hz/NN )/-RRB- Texture/NN Quality/NNP :/: Medium/NNP Render/NNP Quality/NNP :/: Very/RB High/JJ View/NNP Distance/NNP :/: 46/CD Detail/NN Distance/NNP :/: 100/CD Hardware/NNP Microsoft/NNP Windows/NNP XP/NN Professional/NNP Service/NNP Pack/VB 3/CD Video/NNP Adapter/NNP :/: ATI/NNP Radeon/NNP HD/NNP 4800/CD Series/NNP Video/NNP Driver/NN version/NN :/: 6.14.10.6879/CD Audio/NNP Adapter/NNP :/: Realtek/NNP HD/NNP Audio/NNP output/NN Intel/NNP Pentium/NNP III/NNP Xeon/NNP processor/NN File/NNP ID/NNP :/: benchmark.cli/NNS which/WDT Crysis/NNP is/VBZ only/RB using/VBG 60/CD -/: 70/CD %/NN of/IN CPU/NNP -/: ./.
+-/: this/DT is/VBZ stupid/JJ ..../:
